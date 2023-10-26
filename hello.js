@@ -1,3 +1,4 @@
+console.log("hello world Aug 2023!\n");
 console.log("hello world Sept 2023!\n");
 console.log("hello world Oct 2023!\n");
 console.log("hello world Nov 2023!\n");
